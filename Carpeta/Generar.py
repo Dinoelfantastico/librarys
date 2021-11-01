@@ -1,4 +1,4 @@
-import math
+import math 
 
 def setEmptyGraph(size):
   n = size*size
