@@ -1,3 +1,5 @@
+import math
+
 def setEmptyGraph(size):
   n = size*size
   G = [ [] for _ in range(n) ]
